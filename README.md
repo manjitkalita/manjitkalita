@@ -1,4 +1,4 @@
-[![MasterHead](https://futureskillsprime.in/themes/custom/nasscom/images/home/digital-oppurtunity-banner.jpg)]
+![MasterHead](https://futureskillsprime.in/themes/custom/nasscom/images/home/digital-oppurtunity-banner.jpg)
 <h1 align="center">Hi 👋, I'm Manjit Kalita</h1>
 <h3 align="center">"Blending Code and Creativity to Craft Digital Experiences"</h3>
 
